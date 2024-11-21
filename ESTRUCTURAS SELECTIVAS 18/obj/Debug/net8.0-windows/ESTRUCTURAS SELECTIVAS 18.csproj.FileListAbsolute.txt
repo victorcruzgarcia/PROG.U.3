@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\bin\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.exe
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\bin\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.deps.json
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\bin\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.runtimeconfig.json
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\bin\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.dll
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\bin\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.pdb
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS_SELECTIVAS_18.Form1.resources
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.dll
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\refint\ESTRUCTURAS SELECTIVAS 18.dll
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.pdb
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ESTRUCTURAS SELECTIVAS 18.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ESTRUCTURAS SELECTIVAS 18\obj\Debug\net8.0-windows\ref\ESTRUCTURAS SELECTIVAS 18.dll
