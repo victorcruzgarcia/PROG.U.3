@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\bin\Debug\net8.0-windows\Estructuras Repetitivas 2.exe
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\bin\Debug\net8.0-windows\Estructuras Repetitivas 2.deps.json
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\bin\Debug\net8.0-windows\Estructuras Repetitivas 2.runtimeconfig.json
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\bin\Debug\net8.0-windows\Estructuras Repetitivas 2.dll
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\bin\Debug\net8.0-windows\Estructuras Repetitivas 2.pdb
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras_Repetitivas_2.Form1.resources
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.dll
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\refint\Estructuras Repetitivas 2.dll
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.pdb
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\Estructuras Repetitivas 2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TEC\Estructuras Repetitivas 2\obj\Debug\net8.0-windows\ref\Estructuras Repetitivas 2.dll
